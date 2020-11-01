@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-struct tree
+struct tree //structure
 {
     struct tree *left;
     int info;
