@@ -1,7 +1,7 @@
 
 #include<stdio.h>
 #include<math.h>
-main()
+int main()
 {
  long n,i,k,j,left,p=0,max=-10000000;
  scanf("%ld",&n);
